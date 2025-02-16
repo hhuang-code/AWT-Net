@@ -47,6 +47,6 @@ If you found this repository is helpful, please cite:
   title={Adaptive wavelet transformer network for 3d shape representation learning},
   author={Huang, Hao and Fang, Yi},
   booktitle={International Conference on Learning Representations},
-  year={2021}
+  year={2022}
 }
 ```
