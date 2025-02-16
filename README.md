@@ -1,3 +1,5 @@
+# Adaptive wavelet transformer network for 3d shape representation learning
+
 ### Dataset
 * Create a `data` folder under the `AWT-Net` folder: `mkdir data`.
 * __ModelNet40__:
@@ -36,3 +38,15 @@
 
 ### Acknowledgment
 This code is partially borrowed from [GDA-Net](https://github.com/mutianxu/GDANet), [DGCNN](https://github.com/WangYueFt/dgcnn), [GCN](https://github.com/tkipf/gcn), [Transformer](https://d2l.ai/chapter_attention-mechanisms/transformer.html), [PointNet++](https://github.com/yanx27/Pointnet_Pointnet2_pytorch). Detailed credits are listed on the top of each .py file (if applicable).
+
+### Citation
+```angular2html
+If you found this repository is helpful, please cite:
+
+@inproceedings{huang2021adaptive,
+  title={Adaptive wavelet transformer network for 3d shape representation learning},
+  author={Huang, Hao and Fang, Yi},
+  booktitle={International Conference on Learning Representations},
+  year={2021}
+}
+```
